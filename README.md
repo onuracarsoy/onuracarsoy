@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;" src="https://giphy.com/embed/6iDUdBn2TnyYFobIej" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div>
+ [![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://giphy.com/gifs/MicrosoftCloud-computer-microsoft-msbuild-6iDUdBn2TnyYFobIej))
 
 <h1 align="center">Merhaba, ben Onur</h1>
 
