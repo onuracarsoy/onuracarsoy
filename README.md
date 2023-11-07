@@ -1,4 +1,4 @@
- [![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://giphy.com/gifs/MicrosoftCloud-computer-microsoft-msbuild-6iDUdBn2TnyYFobIej))
+ [![MasterHead](https://giphy.com/gifs/MicrosoftCloud-computer-microsoft-msbuild-6iDUdBn2TnyYFobIej)
 
 <h1 align="center">Merhaba, ben Onur</h1>
 
