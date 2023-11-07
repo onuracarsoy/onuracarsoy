@@ -7,19 +7,12 @@
 
 <h1 align="center">Merhaba, ben Onur</h1>
 
-<h3 align="center">Bana ulaşabileceğin bağlantılar:</h3>
-<ul>
-  <li>
-    <a href="https://linkedin.com/in/onur-acarsoy-968191259" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-  </li>
-  <li>
-    <a href="https://medium.com/@onuracarsoy" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-    </a>
-  </li>
-</ul>
+<h3 align="center">Bana Ulaşabileceğin Bağlantılar:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/onur-acarsoy-968191259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur-acarsoy-968191259" height="30" width="40" /></a>
+<a href="https://medium.com/@onuracarsoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@acarsoyonur" height="30" width="40" /></a>
+</p>
+
 <h3 align="center">Kullandığım Diller Ve Teknolojiler</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
