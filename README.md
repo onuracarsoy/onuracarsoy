@@ -20,7 +20,9 @@
     </a>
   </li>
 </ul>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" width="200" />
+</p>
 <h3 align="left">Kullandığım diller ve teknolojiler:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
