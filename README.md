@@ -7,7 +7,7 @@
 
 <h1 align="center">Merhaba, ben Onur</h1>
 
-<h3 align="left">Bana ulaşabileceğin bağlantılar:</h3>
+<h3 align="center">Bana ulaşabileceğin bağlantılar:</h3>
 <ul>
   <li>
     <a href="https://linkedin.com/in/onur-acarsoy-968191259" target="_blank">
@@ -20,11 +20,8 @@
     </a>
   </li>
 </ul>
+<h3 align="center">Kullandığım Diller Ve Teknolojiler</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" width="200" />
-</p>
-<h3 align="left">Kullandığım diller ve teknolojiler:</h3>
-<p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
