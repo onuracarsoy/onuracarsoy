@@ -1,4 +1,4 @@
-[![MasterHead](https://dotnetguru.org/wp-content/uploads/2021/12/dotnet.png)
+
 
 <h1 align="center">Merhaba, ben Onur</h1>
 <h3 align="left">Bana ulaşabileceğin bağlantılar:</h3>
