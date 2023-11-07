@@ -1,6 +1,8 @@
-<img src="[https://giphy.com/embed/6iDUdBn2TnyYFobIej](https://media.giphy.com/media/6iDUdBn2TnyYFobIej/giphy.gif](https://media.giphy.com/media/6iDUdBn2TnyYFobIej/giphy.gif)">
+
 
 <h1 align="center">Merhaba, ben Onur</h1>
+
+<img src="https://giphy.com/embed/6iDUdBn2TnyYFobIej](https://media.giphy.com/media/6iDUdBn2TnyYFobIej/giphy.gif">
 
 <h3 align="center">Bana Ulaşabileceğin Bağlantılar:</h3>
 <p align="center">
