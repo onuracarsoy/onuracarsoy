@@ -1,8 +1,10 @@
+[![MasterHead](https://dotnetguru.org/wp-content/uploads/2021/12/dotnet.png)
+
 <h1 align="center">Merhaba, ben Onur</h1>
 <h3 align="left">Bana ulaşabileceğin bağlantılar:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/onur-acarsoy-968191259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur-acarsoy-968191259" height="30" width="40" /></a>
-<a href="https://medium.com/@onuracarsoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@onuracarsoy" height="30" width="40" /></a>
+<a href="https://medium.com/@onuracarsoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@acarsoyonur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Kullandığım diller ve teknolojiler:</h3>
