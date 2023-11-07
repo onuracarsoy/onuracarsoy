@@ -1,4 +1,6 @@
- [![MasterHead](https://giphy.com/gifs/MicrosoftCloud-computer-microsoft-msbuild-6iDUdBn2TnyYFobIej)
+<p align="center">
+  <img src="https://giphy.com/gifs/MicrosoftCloud-computer-microsoft-msbuild-6iDUdBn2TnyYFobIej" alt="Microsoft Cloud" width="300" />
+</p>
 
 <h1 align="center">Merhaba, ben Onur</h1>
 
