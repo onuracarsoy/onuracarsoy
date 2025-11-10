@@ -10,7 +10,7 @@
 <a href="https://medium.com/@acarsoyonur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@acarsoyonur" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Kullandığım Diller Ve Teknolojiler</h3>
+<h3 align="center">Kullandığım Diller ve Teknolojiler</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
